@@ -1,5 +1,5 @@
-## Qui sera le meilleur data truc
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Git</span>Lending club</span>
+## Who will pay
+##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Lending Club</span>Introduction to data science</span>
 
 ---
 
