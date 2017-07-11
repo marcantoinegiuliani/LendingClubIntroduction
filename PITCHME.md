@@ -20,8 +20,8 @@
 ## The challenge
 
 * In this session you will be given an extract of a few already issued loans, and observe if they defaulted. Based on this observation you can decide to fund or not new loans where you do not know if they will default or not.
-* Every player has the same starting money
-* At the end we compute how much each of you would have make
+* Every player has the same starting money: 20 000 $.
+* At the end we compute how much each of you would have make, and decide the winner.
 
 ---
 
@@ -57,9 +57,7 @@ Five verbs to rule them all:
 * **mutate()**
 * **summarise()**
 
-One adverb **group_by()**.
-
-One idiom : the pipe %>%.
+One adverb **group_by()** and one idiom, the pipe %>%.
 
 ---
 
@@ -97,3 +95,16 @@ train_loans %>%
 
 ---
 
+## Next
+
+You decide on an investment strategy, we help you build it. Let's the sneakier win !
+
+---
+
+## The ennemy
+
+XGBoost
+
+* born in 2015
+* winner of all Kaggle competitions
+* very powerful for inferring default probability from data
