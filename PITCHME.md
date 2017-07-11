@@ -7,7 +7,14 @@
 
 * Funded with 10 million $ in 2007 as one of the first Facebook apps
 * Allows peer-to-peer money lending
-* Makes 500 million $ in 2016 for almost 9 billion of emited loans
+* Makes 500 million $ in 2016 for almost 9 billion $ of emited loans
+
+---
+
+## What is lending Club
+
+![Image-Absolute](assets/lending_club_description.png)
+
 ---
 
 ## What is the Lending Club
