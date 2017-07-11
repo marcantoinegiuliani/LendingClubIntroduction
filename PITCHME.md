@@ -20,7 +20,7 @@
 ## The challenge
 
 * In this session you will be given an extract of a few already issued loans, and observe if they defaulted. Based on this observation you can decide to fund or not new loans where you do not know if they will default or not.
-* Every player has the same strating money
+* Every player has the same starting money
 * At the end we compute how much each of you would have make
 
 ---
@@ -35,7 +35,7 @@
 
 ## The Wickham revolution
 
-![Image-Absolute](assets/wickham.jpeg)
+![Image-Absolute](assets/wickham.jpg)
 
 ---
 
