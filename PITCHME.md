@@ -39,6 +39,29 @@
 
 ---
 
+## Loading data
+
+```R
+library(tidyverse)
+loan_data <- read_csv("loan.csv")
+```
+
+---
+
+## Dplyr : a grammar of data manipulation
+
+Five verbs to rule them all:
+* **filter()**
+* **select()**
+* **arrange()**
+* **mutate()**
+* **summarise()**
+
+One adverb **group_by()**.
+One idiom : the pipe %>%.
+
+---
+
 ## What is the Lending Club
 <span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
 <span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
