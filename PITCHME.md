@@ -17,6 +17,28 @@
 
 ---
 
+## The challenge
+
+* In this session you will be given an extract of a few already issued loans, and observe if they defaulted. Based on this observation you can decide to fund or not new loans where you do not know if they will default or not.
+* Every player has the same strating money
+* At the end we compute how much each of you would have make
+
+---
+
+## A tool to scrutinize data : R
+
+* Open source written in C and Fortran
+* Comes from S written at Bell Labs by John Chambers
+* Re-written by Ihaka and Gentleman in 1992, New Zealand
+
+---
+
+## The Wickham revolution
+
+![Image-Absolute](assets/wickham.jpeg)
+
+---
+
 ## What is the Lending Club
 <span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
 <span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
