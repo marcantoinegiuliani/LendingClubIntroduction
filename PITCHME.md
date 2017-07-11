@@ -1,9 +1,16 @@
-## Who will pay
-##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Lending Club</span>Introduction to data science</span>
+## Who will be rich ? Who will die in misery ?
+##### <span style="font-family:Helvetica Neue; font-weight:bold">A <span style="color:#e49436">Lending Club</span> Introduction to data science</span>
 
 ---
 
-## Slideshow Theme Switcher
+## What is the Lending Club
+
+* Funded with 10 million $ in 2007 as one of the first Facebook apps
+* Allows peer-to-peer money lending
+* Makes 500 million $ in 2016 for almost 9 billion of emited loans
+---
+
+## What is the Lending Club
 <span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
 <span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
 
